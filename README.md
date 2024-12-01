@@ -17,6 +17,11 @@ As part of this initiative, our primary responsibilities include:
 
 The ultimate goal is to ensure the company makes informed, risk-averse choices when expanding into this industry.
 
+# Interactive Analysis with Tableau
+Explore the insights and trends from the aviation accident analysis through our interactive Tableau dashboard. This dashboard provides a detailed view of accident risks, severity indices, and operational factors across different aircraft makes and models.
+
+[View the Tableau Dashboard](https://public.tableau.com/views/aviationaccidents/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Data
 The data used for this analysis is sourced from Kaggle's Aviation Accident Database [Dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses), which contains information provided by the National Transportation Safety Board (NTSB).
 
@@ -93,6 +98,13 @@ Study safety measures implemented during the steep decline in accidents (1980sâ€
 4. Improve Data Collection Processes
 - Address the high frequency of missing or "unknown" entries, especially in key variables by refining data collection protocols. Collaborate with data providers to ensure comprehensive and accurate reporting.
 
+
+# Interactive Analysis with Tableau
+Explore the insights and trends from the aviation accident analysis through our interactive Tableau dashboard. This dashboard provides a detailed view of accident risks, severity indices, and operational factors across different aircraft makes and models.
+
+[View the Tableau Dashboard](https://public.tableau.com/views/aviationaccidents/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Use the dashboard to interact with the data, filter by aircraft make, accident year, and severity levels to gain deeper insights into aviation safety trends.
 
 # For More Information
 See the full analysis in the Jupyter Notebook or review this presentation.

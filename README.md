@@ -1,5 +1,5 @@
 # Aviation Risk Analysis Project
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ## Project Overview
 This project focuses on analyzing aviation accident data to identify aircraft with the lowest operational risks. The analysis aims to support your company's expansion into the aviation industry by providing actionable insights about safe aircraft models, accident trends, and risk factors. By leveraging historical aviation accident data, we aim to guide data-driven decisions for purchasing and operating aircraft for both commercial and private enterprises.
@@ -47,8 +47,7 @@ This project employs a combination of descriptive and analytical methods to asse
     - Cessna leads with the highest number of accidents, accounting for over 25,000 incidents.
     - Piper and Beech follow but with significantly fewer accidents.
     - Other aircraft makes, such as Bell, Boeing, Mooney, and Grumman, report much lower accident counts, indicating the concentration of accidents in a few key makes.
-
-![alt text](<Screenshot from 2024-11-30 20-25-10.png>)
+![alt text](<images/Screenshot from 2024-11-30 20-25-10.png>)
 
 ### Injury Severity Index:
     - Piper, Beech, Bellanca, and Cessna show similar variability in injury severity, with ranges extending up to 14.
@@ -56,14 +55,14 @@ This project employs a combination of descriptive and analytical methods to asse
     - Boeing has a notably lower median injury severity, suggesting better overall safety outcomes.
     - Outliers exist across all aircraft types, indicating occasional extreme cases of injury severity.
 
-![alt text](<Screenshot from 2024-11-30 20-27-10.png>)
+![alt text](<images/Screenshot from 2024-11-30 20-27-10.png>)
 
 ### Trends in Accidents:
     - Aviation accidents have significantly declined since the 1980s, likely due to advancements in safety measures, technology, and stricter regulations.
     - The trend stabilizes after 2010, with minor fluctuations around 2020, suggesting either diminishing returns on safety interventions or new challenges.
     - The steep decline during the 1980s and 1990s reflects major safety improvements driven by industry transformations.
 
-![alt text](<Screenshot from 2024-11-30 20-25-59.png>)
+![alt text](<images/Pasted image.png>)
 
 # Summary of Conclusions
 The analysis reveals critical insights into aviation safety trends and operational risks:

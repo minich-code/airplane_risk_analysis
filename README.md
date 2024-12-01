@@ -1,4 +1,5 @@
 # Aviation Risk Analysis Project
+![alt text](image-1.png)
 
 ## Project Overview
 This project focuses on analyzing aviation accident data to identify aircraft with the lowest operational risks. The analysis aims to support your company's expansion into the aviation industry by providing actionable insights about safe aircraft models, accident trends, and risk factors. By leveraging historical aviation accident data, we aim to guide data-driven decisions for purchasing and operating aircraft for both commercial and private enterprises.
